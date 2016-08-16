@@ -29,7 +29,7 @@
     <artifactId>example-camel</artifactId>
     <packaging>pom</packaging>
 
-    <version>4.2.1-SNAPSHOT</version>
+    <version>4.3.0-SNAPSHOT</version>
 
     <description>WildFly Camel Examples</description>
     <url>https://github.com/wildfly-extras/wildfly-camel-examples</url>
@@ -45,7 +45,7 @@
     <!-- Properties -->
     <properties>
         <!-- WildFly-Camel version -->
-        <version.wildfly.camel>4.2.0</version.wildfly.camel>
+        <version.wildfly.camel>4.3.0-SNAPSHOT</version.wildfly.camel>
         
         <!-- WildFly version -->
         <version.wildfly>10.0.0.Final</version.wildfly>
